@@ -1,0 +1,1064 @@
+2018-06-14 09:32:12 engine.py [line:35] INFO: start time : 2018-06-14 09:32:12.425000
+2018-06-14 09:32:12 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 09:32:12 engine.py [line:39] INFO: stop time : 2018-06-14 09:32:12.609000
+2018-06-14 09:32:12 engine.py [line:43] INFO: useing time : 0.184
+2018-06-14 10:10:55 engine.py [line:34] INFO: start time : 2018-06-14 10:10:55.487000
+2018-06-14 10:10:56 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 10:10:56 engine.py [line:38] INFO: stop time : 2018-06-14 10:10:56.423000
+2018-06-14 10:10:56 engine.py [line:42] INFO: useing time : 0.936
+2018-06-14 10:17:25 engine.py [line:34] INFO: start time : 2018-06-14 10:17:25.929000
+2018-06-14 10:18:02 engine.py [line:34] INFO: start time : 2018-06-14 10:18:02.073000
+2018-06-14 10:18:03 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 10:18:03 engine.py [line:38] INFO: stop time : 2018-06-14 10:18:03.217000
+2018-06-14 10:18:03 engine.py [line:42] INFO: useing time : 1.144
+2018-06-14 10:19:44 engine.py [line:34] INFO: start time : 2018-06-14 10:19:44.280000
+2018-06-14 10:19:44 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:19:48 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 10:19:48 engine.py [line:38] INFO: stop time : 2018-06-14 10:19:48.766000
+2018-06-14 10:19:48 engine.py [line:42] INFO: useing time : 4.486
+2018-06-14 10:45:13 engine.py [line:34] INFO: start time : 2018-06-14 10:45:13.746000
+2018-06-14 10:45:13 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:45:47 engine.py [line:34] INFO: start time : 2018-06-14 10:45:47.459000
+2018-06-14 10:45:47 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:45:48 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 10:45:48 engine.py [line:38] INFO: stop time : 2018-06-14 10:45:48.447000
+2018-06-14 10:45:48 engine.py [line:42] INFO: useing time : 0.988
+2018-06-14 10:47:47 engine.py [line:34] INFO: start time : 2018-06-14 10:47:47.768000
+2018-06-14 10:47:47 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:47:49 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 10:47:49 engine.py [line:38] INFO: stop time : 2018-06-14 10:47:49.172000
+2018-06-14 10:47:49 engine.py [line:42] INFO: useing time : 1.404
+2018-06-14 10:48:06 engine.py [line:34] INFO: start time : 2018-06-14 10:48:06.130000
+2018-06-14 10:48:06 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:48:35 engine.py [line:34] INFO: start time : 2018-06-14 10:48:35.122000
+2018-06-14 10:48:35 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:48:36 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 10:48:36 engine.py [line:38] INFO: stop time : 2018-06-14 10:48:36.128000
+2018-06-14 10:48:36 engine.py [line:42] INFO: useing time : 1.006
+2018-06-14 10:49:10 engine.py [line:34] INFO: start time : 2018-06-14 10:49:10.728000
+2018-06-14 10:49:10 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:50:20 engine.py [line:34] INFO: start time : 2018-06-14 10:50:20.967000
+2018-06-14 10:50:20 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 10:50:21 response.py [line:48] ERROR: http://www.baidu.com/ No JSON object could be decoded
+2018-06-14 10:50:22 response.py [line:48] ERROR: http://news.baidu.com/ No JSON object could be decoded
+2018-06-14 10:50:22 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 10:50:22 engine.py [line:38] INFO: stop time : 2018-06-14 10:50:22.845000
+2018-06-14 10:50:22 engine.py [line:42] INFO: useing time : 1.878
+2018-06-14 11:03:49 engine.py [line:34] INFO: start time : 2018-06-14 11:03:49.190000
+2018-06-14 11:03:49 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 11:06:24 engine.py [line:34] INFO: start time : 2018-06-14 11:06:24.653000
+2018-06-14 11:06:24 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 11:14:31 engine.py [line:34] INFO: start time : 2018-06-14 11:14:31.945000
+2018-06-14 11:14:46 engine.py [line:34] INFO: start time : 2018-06-14 11:14:46.426000
+2018-06-14 11:15:15 engine.py [line:34] INFO: start time : 2018-06-14 11:15:15.866000
+2018-06-14 11:15:26 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 11:15:26 engine.py [line:38] INFO: stop time : 2018-06-14 11:15:26.107000
+2018-06-14 11:15:26 engine.py [line:42] INFO: useing time : 10.241
+2018-06-14 19:30:41 engine.py [line:34] INFO: start time : 2018-06-14 19:30:41.434000
+2018-06-14 11:36:51 engine.py [line:34] INFO: start time : 2018-06-14 11:36:51.045000
+2018-06-14 11:41:44 engine.py [line:34] INFO: start time : 2018-06-14 11:41:44.083000
+2018-06-14 11:41:44 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 11:42:20 engine.py [line:34] INFO: start time : 2018-06-14 11:42:20.475000
+2018-06-14 11:42:20 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 11:42:22 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 11:42:22 engine.py [line:38] INFO: stop time : 2018-06-14 11:42:22.031000
+2018-06-14 11:42:22 engine.py [line:42] INFO: useing time : 1.556
+2018-06-14 11:42:22 engine.py [line:34] INFO: start time : 2018-06-14 11:42:22.032000
+2018-06-14 11:42:33 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 11:42:33 engine.py [line:38] INFO: stop time : 2018-06-14 11:42:33.277000
+2018-06-14 11:42:33 engine.py [line:42] INFO: useing time : 11.245
+2018-06-14 11:49:14 engine.py [line:34] INFO: start time : 2018-06-14 11:49:14.622000
+2018-06-14 11:50:01 engine.py [line:34] INFO: start time : 2018-06-14 11:50:01.094000
+2018-06-14 11:50:56 engine.py [line:34] INFO: start time : 2018-06-14 11:50:56.905000
+2018-06-14 11:52:27 engine.py [line:35] INFO: start time : 2018-06-14 11:52:27.648000
+2018-06-14 11:52:27 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 11:52:28 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 11:52:37 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 11:52:37 engine.py [line:39] INFO: stop time : 2018-06-14 11:52:37.208000
+2018-06-14 11:52:37 engine.py [line:43] INFO: useing time : 9.56
+2018-06-14 11:53:54 engine.py [line:35] INFO: start time : 2018-06-14 11:53:54.528000
+2018-06-14 11:53:54 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 11:53:55 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 11:54:05 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 11:54:05 engine.py [line:39] INFO: stop time : 2018-06-14 11:54:05.348000
+2018-06-14 11:54:05 engine.py [line:43] INFO: useing time : 10.82
+2018-06-14 12:21:40 engine.py [line:35] INFO: start time : 2018-06-14 12:21:40.944000
+2018-06-14 12:21:40 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 12:22:30 engine.py [line:35] INFO: start time : 2018-06-14 12:22:30.590000
+2018-06-14 12:22:30 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 12:22:31 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 12:22:35 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 12:22:35 engine.py [line:39] INFO: stop time : 2018-06-14 12:22:35.085000
+2018-06-14 12:22:35 engine.py [line:43] INFO: useing time : 4.495
+2018-06-14 12:38:36 engine.py [line:36] INFO: start time : 2018-06-14 12:38:36.804000
+2018-06-14 12:39:13 engine.py [line:36] INFO: start time : 2018-06-14 12:39:13.318000
+2018-06-14 12:40:07 engine.py [line:36] INFO: start time : 2018-06-14 12:40:07.861000
+2018-06-14 12:40:07 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 12:40:08 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 12:40:13 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 12:40:13 engine.py [line:40] INFO: stop time : 2018-06-14 12:40:13.023000
+2018-06-14 12:40:13 engine.py [line:44] INFO: useing time : 5.162
+2018-06-14 16:16:55 engine.py [line:36] INFO: start time : 2018-06-14 16:16:55.696000
+2018-06-14 16:16:55 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 16:16:57 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 16:17:05 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 16:17:05 engine.py [line:40] INFO: stop time : 2018-06-14 16:17:05.574000
+2018-06-14 16:17:05 engine.py [line:44] INFO: useing time : 9.878
+2018-06-14 16:41:24 engine.py [line:71] INFO: start time : 2018-06-14 16:41:24.097000
+2018-06-14 16:41:24 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 16:41:25 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 16:41:29 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 16:41:29 engine.py [line:75] INFO: stop time : 2018-06-14 16:41:29.906000
+2018-06-14 16:41:29 engine.py [line:79] INFO: useing time : 5.809
+2018-06-14 16:41:46 engine.py [line:71] INFO: start time : 2018-06-14 16:41:46.747000
+2018-06-14 16:41:46 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 16:41:48 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 16:41:48 engine.py [line:75] INFO: stop time : 2018-06-14 16:41:48.636000
+2018-06-14 16:41:48 engine.py [line:79] INFO: useing time : 1.889
+2018-06-14 16:42:25 engine.py [line:71] INFO: start time : 2018-06-14 16:42:25.526000
+2018-06-14 16:42:25 scheduler.py [line:43] WARNING: http://www.baidu.com/ filter.
+2018-06-14 16:42:27 scheduler.py [line:37] WARNING: Queue is empty!
+2018-06-14 16:42:27 engine.py [line:75] INFO: stop time : 2018-06-14 16:42:27.060000
+2018-06-14 16:42:27 engine.py [line:79] INFO: useing time : 1.534
+2018-06-14 17:23:16 engine.py [line:71] INFO: start time : 2018-06-14 17:23:16.166000
+2018-06-14 17:23:16 scheduler.py [line:53] WARNING: http://www.baidu.com/ filter.
+2018-06-14 17:23:17 scheduler.py [line:46] WARNING: Queue is empty!
+2018-06-14 17:23:21 scheduler.py [line:46] WARNING: Queue is empty!
+2018-06-14 17:23:21 engine.py [line:75] INFO: stop time : 2018-06-14 17:23:21.284000
+2018-06-14 17:23:21 engine.py [line:79] INFO: useing time : 5.118
+2018-06-14 17:24:00 engine.py [line:71] INFO: start time : 2018-06-14 17:24:00.420000
+2018-06-14 17:24:00 scheduler.py [line:53] WARNING: http://www.baidu.com/ filter.
+2018-06-14 17:24:01 scheduler.py [line:46] WARNING: Queue is empty!
+2018-06-14 17:24:05 scheduler.py [line:46] WARNING: Queue is empty!
+2018-06-14 17:24:05 engine.py [line:75] INFO: stop time : 2018-06-14 17:24:05.069000
+2018-06-14 17:24:05 engine.py [line:79] INFO: useing time : 4.649
+2018-06-16 08:50:02 engine.py [line:71] INFO: start time : 2018-06-16 08:50:02.309000
+2018-06-16 08:50:02 scheduler.py [line:54] WARNING: http://www.baidu.com/ filter.
+2018-06-16 08:50:03 scheduler.py [line:47] WARNING: Queue is empty!
+2018-06-16 08:50:09 scheduler.py [line:47] WARNING: Queue is empty!
+2018-06-16 08:50:09 engine.py [line:75] INFO: stop time : 2018-06-16 08:50:09.319000
+2018-06-16 08:50:09 engine.py [line:79] INFO: useing time : 7.01
+2018-06-16 08:57:34 engine.py [line:71] INFO: start time : 2018-06-16 08:57:34.472000
+2018-06-16 08:57:34 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 08:57:34 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 08:57:34 scheduler.py [line:55] WARNING: http://www.baidu.com/ filter.
+2018-06-16 08:57:34 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 08:57:34 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 08:57:35 scheduler.py [line:48] WARNING: Queue is empty!
+2018-06-16 08:57:35 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 08:57:35 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 08:57:35 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 08:57:35 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 08:57:35 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 08:57:35 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 08:57:36 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 08:57:37 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 08:57:38 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 08:57:38 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 08:57:39 scheduler.py [line:48] WARNING: Queue is empty!
+2018-06-16 08:57:39 engine.py [line:75] INFO: stop time : 2018-06-16 08:57:39.293000
+2018-06-16 08:57:39 engine.py [line:79] INFO: useing time : 4.821
+2018-06-16 09:01:47 engine.py [line:71] INFO: start time : 2018-06-16 09:01:47.119000
+2018-06-16 09:01:47 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:01:47 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:01:47 scheduler.py [line:55] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:01:47 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:01:47 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:01:47 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:01:47 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:01:47 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:01:47 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 09:06:20 engine.py [line:71] INFO: start time : 2018-06-16 09:06:20.851000
+2018-06-16 09:06:20 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:06:20 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:06:20 scheduler.py [line:55] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:06:20 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:06:20 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:06:20 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:06:20 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:06:20 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:06:21 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 09:06:21 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 09:06:22 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:06:23 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:06:24 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:06:25 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:06:26 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:06:26 engine.py [line:75] INFO: stop time : 2018-06-16 09:06:26.512000
+2018-06-16 09:06:26 engine.py [line:79] INFO: useing time : 5.661
+2018-06-16 09:13:13 engine.py [line:79] INFO: start time : 2018-06-16 09:13:13.508000
+2018-06-16 09:13:13 engine.py [line:94] INFO: Main Thread is over!
+2018-06-16 09:13:13 engine.py [line:83] INFO: stop time : 2018-06-16 09:13:13.509000
+2018-06-16 09:13:13 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:13:13 engine.py [line:87] INFO: useing time : 0.001
+2018-06-16 09:13:13 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:13:13 scheduler.py [line:55] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:13:13 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:13:13 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:13:13 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:13:13 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:13:13 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:13:57 engine.py [line:79] INFO: start time : 2018-06-16 09:13:57.340000
+2018-06-16 09:13:57 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:13:57 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:13:57 scheduler.py [line:55] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:13:57 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:13:57 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:13:57 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:13:57 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:13:57 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:13:57 engine.py [line:96] INFO: Main Thread is over!
+2018-06-16 09:13:57 engine.py [line:83] INFO: stop time : 2018-06-16 09:13:57.443000
+2018-06-16 09:13:57 engine.py [line:87] INFO: useing time : 0.103
+2018-06-16 09:15:41 engine.py [line:79] INFO: start time : 2018-06-16 09:15:41.913000
+2018-06-16 09:15:41 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:15:41 scheduler.py [line:32] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:15:41 scheduler.py [line:55] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:15:41 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:15:41 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:15:41 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:15:41 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:15:41 scheduler.py [line:32] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:15:42 engine.py [line:100] INFO: Main Thread is over!
+2018-06-16 09:15:42 engine.py [line:83] INFO: stop time : 2018-06-16 09:15:42.019000
+2018-06-16 09:15:42 engine.py [line:87] INFO: useing time : 0.106
+2018-06-16 09:21:46 engine.py [line:80] INFO: start time : 2018-06-16 09:21:46.688000
+2018-06-16 09:21:46 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:21:46 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:21:46 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:21:46 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:21:46 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:21:46 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:21:46 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:21:46 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:22:05 engine.py [line:80] INFO: start time : 2018-06-16 09:22:05.656000
+2018-06-16 09:22:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:22:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:22:05 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:22:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:22:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:22:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:22:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:22:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:22:05 engine.py [line:106] INFO: Main Thread is over!
+2018-06-16 09:22:05 engine.py [line:84] INFO: stop time : 2018-06-16 09:22:05.758000
+2018-06-16 09:22:05 engine.py [line:88] INFO: useing time : 0.102
+2018-06-16 09:23:03 engine.py [line:80] INFO: start time : 2018-06-16 09:23:03.755000
+2018-06-16 09:23:03 engine.py [line:106] INFO: Main Thread is over!
+2018-06-16 09:23:03 engine.py [line:84] INFO: stop time : 2018-06-16 09:23:03.856000
+2018-06-16 09:23:03 engine.py [line:88] INFO: useing time : 0.101
+2018-06-16 09:23:19 engine.py [line:80] INFO: start time : 2018-06-16 09:23:19.925000
+2018-06-16 09:23:19 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:23:19 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:23:19 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:23:19 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:23:19 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:23:19 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:23:19 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:23:19 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:23:20 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 09:23:20 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 09:23:20 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:23:22 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:23:22 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:23:24 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:23:24 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:23:25 engine.py [line:106] INFO: Main Thread is over!
+2018-06-16 09:23:25 engine.py [line:84] INFO: stop time : 2018-06-16 09:23:25.963000
+2018-06-16 09:23:25 engine.py [line:88] INFO: useing time : 6.038
+2018-06-16 09:25:28 engine.py [line:80] INFO: start time : 2018-06-16 09:25:28.153000
+2018-06-16 09:26:25 engine.py [line:80] INFO: start time : 2018-06-16 09:26:25.432000
+2018-06-16 09:26:25 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:26:25 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:26:25 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:26:25 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:26:25 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:26:25 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:26:25 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:26:25 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:32:09 engine.py [line:81] INFO: start time : 2018-06-16 09:32:09.843000
+2018-06-16 09:32:09 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:32:09 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:32:09 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:32:09 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:32:09 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:32:09 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:32:09 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:32:09 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:32:09 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 09:32:10 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 09:32:10 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:32:12 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:32:12 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:32:14 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:32:15 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:32:17 engine.py [line:110] INFO: Main Thread is over!
+2018-06-16 09:32:17 engine.py [line:85] INFO: stop time : 2018-06-16 09:32:17.992000
+2018-06-16 09:32:17 engine.py [line:89] INFO: useing time : 8.149
+2018-06-16 09:32:48 engine.py [line:81] INFO: start time : 2018-06-16 09:32:48.781000
+2018-06-16 09:32:48 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 09:32:48 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 09:32:48 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 09:32:48 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:32:48 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:32:48 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:32:48 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:32:48 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:32:48 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 09:32:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 09:32:49 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 09:32:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 09:32:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 09:32:52 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 09:32:53 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 09:32:57 engine.py [line:110] INFO: Main Thread is over!
+2018-06-16 09:32:57 engine.py [line:85] INFO: stop time : 2018-06-16 09:32:57.168000
+2018-06-16 09:32:57 engine.py [line:89] INFO: useing time : 8.387
+2018-06-16 10:05:54 engine.py [line:84] INFO: start time : 2018-06-16 10:05:54.891000
+2018-06-16 10:05:54 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:05:54 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:05:54 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:05:54 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:05:54 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:05:54 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:05:54 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:05:54 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:05:55 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:05:55 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:05:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:05:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:05:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:05:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:05:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:06:03 engine.py [line:119] INFO: Main Thread is over!
+2018-06-16 10:06:03 engine.py [line:88] INFO: stop time : 2018-06-16 10:06:03.100000
+2018-06-16 10:06:03 engine.py [line:92] INFO: useing time : 8.209
+2018-06-16 10:20:39 engine.py [line:97] INFO: start time : 2018-06-16 10:20:39.276000
+2018-06-16 10:20:39 engine.py [line:111] INFO: Coroutine is work!
+2018-06-16 10:20:39 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:20:39 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:20:39 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:20:39 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:20:39 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:20:39 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:20:39 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:20:39 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:20:39 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:20:39 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:20:40 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:20:41 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:20:41 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:20:42 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:20:42 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:22:15 engine.py [line:98] INFO: start time : 2018-06-16 10:22:15.496000
+2018-06-16 10:22:15 engine.py [line:112] INFO: Coroutine is work!
+2018-06-16 10:22:15 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:22:15 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:22:15 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:22:15 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:22:15 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:22:15 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:22:15 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:22:15 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:22:15 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:22:15 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:22:16 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:22:17 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:22:17 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:22:17 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:22:18 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:22:18 engine.py [line:140] INFO: Main Thread is over!
+2018-06-16 10:22:18 engine.py [line:102] INFO: stop time : 2018-06-16 10:22:18.992000
+2018-06-16 10:22:18 engine.py [line:106] INFO: useing time : 3.496
+2018-06-16 10:22:53 engine.py [line:98] INFO: start time : 2018-06-16 10:22:53.700000
+2018-06-16 10:22:53 engine.py [line:112] INFO: Coroutine is work!
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:22:53 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:22:53 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:22:53 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:22:54 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:22:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:22:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:22:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:22:56 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:22:56 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:22:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:22:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:22:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:22:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:22:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:22:59 engine.py [line:140] INFO: Main Thread is over!
+2018-06-16 10:22:59 engine.py [line:102] INFO: stop time : 2018-06-16 10:22:59.781000
+2018-06-16 10:22:59 engine.py [line:106] INFO: useing time : 6.081
+2018-06-16 10:23:05 engine.py [line:98] INFO: start time : 2018-06-16 10:23:05.068000
+2018-06-16 10:23:05 engine.py [line:112] INFO: Coroutine is work!
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:23:05 scheduler.py [line:58] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:23:05 scheduler.py [line:33] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:23:05 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:23:05 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:23:05 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:23:06 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:23:06 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:23:07 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:23:07 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:23:08 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:23:08 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:23:09 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:23:09 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:23:10 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:23:11 engine.py [line:140] INFO: Main Thread is over!
+2018-06-16 10:23:11 engine.py [line:102] INFO: stop time : 2018-06-16 10:23:11.124000
+2018-06-16 10:23:11 engine.py [line:106] INFO: useing time : 6.056
+2018-06-16 10:55:29 engine.py [line:99] INFO: start time : 2018-06-16 10:55:29.257000
+2018-06-16 10:55:29 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:55:29 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:55:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:55:29 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:55:30 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:55:30 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:55:31 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:55:31 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:55:32 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:55:32 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:55:33 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:55:33 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:55:34 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:55:34 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:55:34 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:55:35 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 10:55:35 engine.py [line:103] INFO: stop time : 2018-06-16 10:55:35.367000
+2018-06-16 10:55:35 engine.py [line:107] INFO: useing time : 6.11
+2018-06-16 10:55:46 engine.py [line:99] INFO: start time : 2018-06-16 10:55:46.384000
+2018-06-16 10:55:46 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:55:46 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:55:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:55:46 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:55:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:55:47 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:55:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:55:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:55:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:55:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:55:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:55:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:55:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:55:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:55:53 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:55:53 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 10:55:53 engine.py [line:103] INFO: stop time : 2018-06-16 10:55:53.550000
+2018-06-16 10:55:53 engine.py [line:107] INFO: useing time : 7.166
+2018-06-16 10:56:45 engine.py [line:99] INFO: start time : 2018-06-16 10:56:45.228000
+2018-06-16 10:56:45 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:56:45 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:56:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:56:45 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:56:45 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:56:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:56:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:56:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:56:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:56:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:56:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:56:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:56:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:56:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:56:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:56:51 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 10:56:51 engine.py [line:103] INFO: stop time : 2018-06-16 10:56:51.270000
+2018-06-16 10:56:51 engine.py [line:107] INFO: useing time : 6.042
+2018-06-16 10:58:42 engine.py [line:99] INFO: start time : 2018-06-16 10:58:42.754000
+2018-06-16 10:58:42 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 10:58:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 10:58:43 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:58:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:58:44 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 10:58:44 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 10:58:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 10:58:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 10:58:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 10:58:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 10:58:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 10:58:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 10:58:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 10:58:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 10:58:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 10:58:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 10:58:49 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 10:58:49 engine.py [line:103] INFO: stop time : 2018-06-16 10:58:49.878000
+2018-06-16 10:58:49 engine.py [line:107] INFO: useing time : 7.124
+2018-06-16 11:02:45 engine.py [line:99] INFO: start time : 2018-06-16 11:02:45.865000
+2018-06-16 11:02:45 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:02:45 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:02:46 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:02:46 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:02:47 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:02:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:02:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:02:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:02:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:02:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:02:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:02:49 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:02:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:02:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:02:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:02:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:02:51 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 11:02:51 engine.py [line:103] INFO: stop time : 2018-06-16 11:02:51.704000
+2018-06-16 11:02:51 engine.py [line:107] INFO: useing time : 5.839
+2018-06-16 11:04:52 engine.py [line:99] INFO: start time : 2018-06-16 11:04:52.411000
+2018-06-16 11:04:52 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:04:52 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:04:53 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:04:53 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:04:53 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:04:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:04:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:04:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:04:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:04:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:04:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:04:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:04:56 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:04:56 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:04:56 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:04:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:04:57 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 11:04:57 engine.py [line:103] INFO: stop time : 2018-06-16 11:04:57.593000
+2018-06-16 11:04:57 engine.py [line:107] INFO: useing time : 5.182
+2018-06-16 11:05:28 engine.py [line:99] INFO: start time : 2018-06-16 11:05:28.028000
+2018-06-16 11:05:28 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:05:28 engine.py [line:125] INFO: Slave is work!
+2018-06-16 11:05:35 engine.py [line:99] INFO: start time : 2018-06-16 11:05:35.590000
+2018-06-16 11:05:35 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:05:35 engine.py [line:125] INFO: Slave is work!
+2018-06-16 11:05:54 engine.py [line:99] INFO: start time : 2018-06-16 11:05:54.751000
+2018-06-16 11:05:54 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:05:55 engine.py [line:119] INFO: Master is work!
+2018-06-16 11:05:55 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:05:56 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:05:56 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:05:57 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:05:57 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:05:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:05:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:05:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:05:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:05:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:05:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:05:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:05:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:05:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:06:00 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:31:03 engine.py [line:99] INFO: start time : 2018-06-16 11:31:03.659000
+2018-06-16 11:31:03 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:31:03 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:31:03 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:31:04 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:31:04 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:31:05 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:31:05 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:31:05 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:31:06 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:31:06 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:31:07 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:31:07 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:31:08 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:31:08 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:31:09 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:31:09 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 11:31:09 engine.py [line:103] INFO: stop time : 2018-06-16 11:31:09.724000
+2018-06-16 11:31:09 engine.py [line:107] INFO: useing time : 6.065
+2018-06-16 11:31:42 engine.py [line:99] INFO: start time : 2018-06-16 11:31:42.303000
+2018-06-16 11:31:42 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:31:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:31:43 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:31:43 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:31:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:31:43 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:31:44 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:31:44 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:31:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:31:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:31:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:31:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:31:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:31:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:31:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:31:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:32:41 engine.py [line:99] INFO: start time : 2018-06-16 11:32:41.803000
+2018-06-16 11:32:41 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:32:41 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:32:42 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:32:42 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:32:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:32:43 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:32:43 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:32:43 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:32:44 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:32:44 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:32:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:32:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:32:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:32:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:32:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:32:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:32:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:32:48 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:32:49 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 11:32:49 engine.py [line:103] INFO: stop time : 2018-06-16 11:32:49.008000
+2018-06-16 11:32:49 engine.py [line:107] INFO: useing time : 7.205
+2018-06-16 11:33:08 engine.py [line:99] INFO: start time : 2018-06-16 11:33:08.307000
+2018-06-16 11:33:08 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:33:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:33:09 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:33:09 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:33:09 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:33:09 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:33:10 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:33:11 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:33:11 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:33:12 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:33:12 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:33:13 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:33:13 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:33:14 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:33:14 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:33:15 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:33:15 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 11:33:15 engine.py [line:103] INFO: stop time : 2018-06-16 11:33:15.748000
+2018-06-16 11:33:15 engine.py [line:107] INFO: useing time : 7.441
+2018-06-16 11:36:31 engine.py [line:99] INFO: start time : 2018-06-16 11:36:31.958000
+2018-06-16 11:36:31 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:36:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:36:33 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:36:33 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:36:33 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:36:33 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:36:34 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:36:34 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:36:35 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:36:35 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:36:36 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:36:36 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:36:37 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:36:37 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:36:38 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:36:38 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:36:39 engine.py [line:141] INFO: Main Thread is over!
+2018-06-16 11:36:39 engine.py [line:103] INFO: stop time : 2018-06-16 11:36:39.590000
+2018-06-16 11:36:39 engine.py [line:107] INFO: useing time : 7.632
+2018-06-16 11:37:00 engine.py [line:99] INFO: start time : 2018-06-16 11:37:00.197000
+2018-06-16 11:37:00 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:37:30 engine.py [line:99] INFO: start time : 2018-06-16 11:37:30.780000
+2018-06-16 11:37:30 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:38:05 engine.py [line:99] INFO: start time : 2018-06-16 11:38:05.644000
+2018-06-16 11:38:06 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:38:06 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:38:08 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:38:08 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:38:09 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:38:09 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:38:09 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:38:09 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:38:09 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:38:10 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:38:11 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:38:12 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:38:13 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:38:14 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:38:15 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:38:16 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:39:26 engine.py [line:99] INFO: start time : 2018-06-16 11:39:26.361000
+2018-06-16 11:39:26 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:39:27 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:39:29 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:39:30 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:39:30 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:39:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:39:31 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:39:43 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:39:44 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:39:46 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:39:47 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:39:49 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:39:50 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:39:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:39:53 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:39:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:39:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:40:49 engine.py [line:99] INFO: start time : 2018-06-16 11:40:49.432000
+2018-06-16 11:40:49 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:40:49 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:40:51 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:40:51 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:40:51 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:40:52 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:40:52 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:40:53 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:40:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:40:56 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:40:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:40:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:40:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:41:01 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:41:02 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:41:04 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:41:38 engine.py [line:99] INFO: start time : 2018-06-16 11:41:38.834000
+2018-06-16 11:41:38 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:41:38 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:41:39 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:41:39 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:42:49 engine.py [line:99] INFO: start time : 2018-06-16 11:42:49.101000
+2018-06-16 11:42:49 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:42:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:42:51 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:42:52 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:42:52 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:42:53 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:42:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:42:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:42:56 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:42:56 engine.py [line:99] INFO: start time : 2018-06-16 11:42:56.590000
+2018-06-16 11:42:56 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:42:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:42:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:42:59 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:43:00 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:49:09 engine.py [line:99] INFO: start time : 2018-06-16 11:49:09.854000
+2018-06-16 11:49:09 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:49:09 engine.py [line:125] INFO: Slave is work!
+2018-06-16 11:49:30 engine.py [line:99] INFO: start time : 2018-06-16 11:49:30.262000
+2018-06-16 11:49:30 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:49:30 engine.py [line:120] INFO: Master is work!
+2018-06-16 11:49:30 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 11:49:31 scheduler.py [line:66] WARNING: http://www.baidu.com/ filter.
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:49:31 scheduler.py [line:41] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 11:52:36 engine.py [line:99] INFO: start time : 2018-06-16 11:52:36.921000
+2018-06-16 11:52:36 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 11:52:36 engine.py [line:125] INFO: Slave is work!
+2018-06-16 11:52:38 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 11:52:38 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 11:52:39 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 11:52:40 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 11:52:40 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 11:52:41 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 11:52:42 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 11:52:43 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 11:52:44 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 11:52:45 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 11:52:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 11:52:46 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 12:11:28 engine.py [line:99] INFO: start time : 2018-06-16 12:11:28.887000
+2018-06-16 12:11:28 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:11:28 engine.py [line:125] INFO: Slave is work!
+2018-06-16 12:11:46 engine.py [line:99] INFO: start time : 2018-06-16 12:11:46.985000
+2018-06-16 12:11:47 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:11:47 engine.py [line:120] INFO: Master is work!
+2018-06-16 12:11:48 scheduler.py [line:43] INFO: Add Reuqest [GET] <http://www.baidu.com/>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <http://news.baidu.com/>
+2018-06-16 12:11:49 scheduler.py [line:68] WARNING: http://www.baidu.com/ filter.
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=0>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=25>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=50>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=75>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=100>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=125>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=150>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=175>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=200>
+2018-06-16 12:11:49 scheduler.py [line:43] INFO: Add Reuqest [GET] <https://movie.douban.com/top250?start=225>
+2018-06-16 12:11:49 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:11:50 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 12:11:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=175>
+2018-06-16 12:11:51 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=50>
+2018-06-16 12:11:52 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=75>
+2018-06-16 12:11:53 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=25>
+2018-06-16 12:11:54 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=0>
+2018-06-16 12:11:55 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=225>
+2018-06-16 12:11:56 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=200>
+2018-06-16 12:11:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=125>
+2018-06-16 12:11:57 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=150>
+2018-06-16 12:11:58 downloader.py [line:20] INFO: [200] <https://movie.douban.com/top250?start=100>
+2018-06-16 12:12:26 engine.py [line:99] INFO: start time : 2018-06-16 12:12:26.890000
+2018-06-16 12:12:26 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:12:26 engine.py [line:120] INFO: Master is work!
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: http://www.baidu.com/ filter.
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: http://news.baidu.com/ filter.
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: http://www.baidu.com/ filter.
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=0 filter.
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=25 filter.
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=50 filter.
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=75 filter.
+2018-06-16 12:12:28 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=100 filter.
+2018-06-16 12:12:29 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=125 filter.
+2018-06-16 12:12:29 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=150 filter.
+2018-06-16 12:12:29 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=175 filter.
+2018-06-16 12:12:29 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=200 filter.
+2018-06-16 12:12:29 scheduler.py [line:68] WARNING: https://movie.douban.com/top250?start=225 filter.
+2018-06-16 12:27:16 engine.py [line:99] INFO: start time : 2018-06-16 12:27:16.159000
+2018-06-16 12:27:16 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:27:16 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:27:16 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://news.baidu.com/>
+2018-06-16 12:27:16 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:27:16 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:27:16 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:27:16 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 12:27:17 engine.py [line:146] INFO: Main Thread is over!
+2018-06-16 12:27:17 engine.py [line:103] INFO: stop time : 2018-06-16 12:27:17.425000
+2018-06-16 12:27:17 engine.py [line:107] INFO: useing time : 1.266
+2018-06-16 12:28:06 engine.py [line:99] INFO: start time : 2018-06-16 12:28:06.525000
+2018-06-16 12:28:06 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:28:06 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:06 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://news.baidu.com/>
+2018-06-16 12:28:06 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:06 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:06 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:06 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 12:28:07 engine.py [line:146] INFO: Main Thread is over!
+2018-06-16 12:28:07 engine.py [line:103] INFO: stop time : 2018-06-16 12:28:07.579000
+2018-06-16 12:28:07 engine.py [line:107] INFO: useing time : 1.054
+2018-06-16 12:28:12 engine.py [line:99] INFO: start time : 2018-06-16 12:28:12.579000
+2018-06-16 12:28:12 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:28:12 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:12 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://news.baidu.com/>
+2018-06-16 12:28:12 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:12 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:12 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:12 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 12:28:13 engine.py [line:146] INFO: Main Thread is over!
+2018-06-16 12:28:13 engine.py [line:103] INFO: stop time : 2018-06-16 12:28:13.359000
+2018-06-16 12:28:13 engine.py [line:107] INFO: useing time : 0.78
+2018-06-16 12:28:18 engine.py [line:99] INFO: start time : 2018-06-16 12:28:18.359000
+2018-06-16 12:28:18 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:28:18 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:18 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://news.baidu.com/>
+2018-06-16 12:28:18 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:18 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:18 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:18 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 12:28:19 engine.py [line:146] INFO: Main Thread is over!
+2018-06-16 12:28:19 engine.py [line:103] INFO: stop time : 2018-06-16 12:28:19.254000
+2018-06-16 12:28:19 engine.py [line:107] INFO: useing time : 0.895
+2018-06-16 12:28:24 engine.py [line:99] INFO: start time : 2018-06-16 12:28:24.254000
+2018-06-16 12:28:24 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:28:24 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:24 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://news.baidu.com/>
+2018-06-16 12:28:24 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:24 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:24 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:24 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 12:28:25 engine.py [line:146] INFO: Main Thread is over!
+2018-06-16 12:28:25 engine.py [line:103] INFO: stop time : 2018-06-16 12:28:25.138000
+2018-06-16 12:28:25 engine.py [line:107] INFO: useing time : 0.884
+2018-06-16 12:28:30 engine.py [line:99] INFO: start time : 2018-06-16 12:28:30.138000
+2018-06-16 12:28:30 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:28:30 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:30 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://news.baidu.com/>
+2018-06-16 12:28:30 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:30 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:30 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:30 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
+2018-06-16 12:28:30 engine.py [line:146] INFO: Main Thread is over!
+2018-06-16 12:28:30 engine.py [line:103] INFO: stop time : 2018-06-16 12:28:30.986000
+2018-06-16 12:28:30 engine.py [line:107] INFO: useing time : 0.848
+2018-06-16 12:28:35 engine.py [line:99] INFO: start time : 2018-06-16 12:28:35.986000
+2018-06-16 12:28:35 engine.py [line:113] INFO: Coroutine is work!
+2018-06-16 12:28:35 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:35 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://news.baidu.com/>
+2018-06-16 12:28:35 scheduler.py [line:40] INFO: Add Request(don't filter): [GET] <http://www.baidu.com/>
+2018-06-16 12:28:36 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:36 downloader.py [line:20] INFO: [200] <http://www.baidu.com/>
+2018-06-16 12:28:36 downloader.py [line:20] INFO: [200] <http://news.baidu.com/>
