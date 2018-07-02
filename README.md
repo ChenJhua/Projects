@@ -5,7 +5,7 @@
 ##[源码Github链接https://github.com/ChenJhua/Projects/tree/master/Project](https://github.com/ChenJhua/Projects/tree/master/Project)
 
 ###首先分析Scrapy的流程
-![这里写图片描述](https://img-blog.csdn.net/20180701202550404?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5odWExMTI1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![scrapy流程图](https://github.com/ChenJhua/GitHubImage/blob/master/GitHubImage/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20180701202457.png)
 
 ###从流程中抽取对象
 
@@ -57,13 +57,13 @@ response交给爬虫模块进行解析，提取结果
 **以上的逻辑是在引擎中完成的**
 **对应的他们在引擎中的逻辑如下图：**
 
-![这里写图片描述](https://img-blog.csdn.net/20180701203424183?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5odWExMTI1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![这里写图片描述](https://github.com/ChenJhua/GitHubImage/blob/master/GitHubImage/snipaste_20180701_203405.png)
 
 ### 源码目录结构图
 #####Project
-![这里写图片描述](https://img-blog.csdn.net/20180701204145414?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5odWExMTI1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![这里写图片描述](https://github.com/ChenJhua/GitHubImage/blob/master/GitHubImage/snipaste_20180701_204129.png)
 
 ####scrapy_plus
-![这里写图片描述](https://img-blog.csdn.net/20180701205149287?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NoZW5odWExMTI1/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![这里写图片描述](https://github.com/ChenJhua/GitHubImage/blob/master/GitHubImage/snipaste_20180701_205034.png)
 
 #### 具体实现看Github的代码，就不在这里复制粘贴了
